@@ -1,0 +1,6 @@
+{
+  "name": "VoiceVault",
+  "description": "Secure and elegant professional voice recorder and audio database vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
